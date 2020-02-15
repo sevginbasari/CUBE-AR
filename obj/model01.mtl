@@ -1,0 +1,56 @@
+# Rhino
+newmtl Custom
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Custom (1)
+Ka 0.0000 0.0000 0.0000
+Kd 0.8039 0.5216 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Clear Glass
+Ka 0.0000 0.0000 0.0000
+Kd 0.0000 0.0000 0.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 0.0000
+Ns 255.0000
+newmtl Custom (2)
+Ka 0.0000 0.0000 0.0000
+Kd 0.9216 0.8510 0.7490
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+newmtl Concrete light
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Concrete light_600_DB.jpg
+map_Bump Concrete light_600_DB.jpg
+newmtl Patiobrick
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Patiobrick_300_DB.jpg
+map_Bump Patiobrick_300_DB.jpg
+newmtl Realistic grass
+Ka 0.0000 0.0000 0.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Realistic grass_1500_DB.jpg
+map_Bump Realistic grass_1500_DB.jpg
